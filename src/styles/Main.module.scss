@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 17vh;
+
+    button{
+        width: 10vw;
+    }
+
+    .skip{
+        color:#888;
+        box-shadow: 0px 2px #ddd;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 0.7em;
+        padding-bottom: 0.7em;
+        text-emphasis: bold;
+
+        &:hover{
+            background-color: #eee;
+        }
+    }
+
+    .check{
+        background-color: rgb(88,204,2);
+        box-shadow: 0px 2px darken(rgb(88,204,2),10%);
+        border: 2px solid rgb(88,204,2);
+        border-radius: 10px;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 0.7em;
+        padding-bottom: 0.7em;
+        text-emphasis: bold;
+    }
+}
+
+.correct{
+    background-color: lighten(rgb(36,102,154),20%);
+}

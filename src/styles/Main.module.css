@@ -1,0 +1,51 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  position: relative;
+  top: 17vh;
+}
+
+.footer button {
+  width: 10vw;
+}
+
+.footer .skip {
+  color: #888;
+  -webkit-box-shadow: 0px 2px #ddd;
+          box-shadow: 0px 2px #ddd;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  -webkit-text-emphasis: bold;
+          text-emphasis: bold;
+}
+
+.footer .skip:hover {
+  background-color: #eee;
+}
+
+.footer .check {
+  background-color: #58cc02;
+  -webkit-box-shadow: 0px 2px #429902;
+          box-shadow: 0px 2px #429902;
+  border: 2px solid #58cc02;
+  border-radius: 10px;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  -webkit-text-emphasis: bold;
+          text-emphasis: bold;
+}
+
+.correct {
+  background-color: #4e9ad6;
+}
+/*# sourceMappingURL=Main.module.css.map */

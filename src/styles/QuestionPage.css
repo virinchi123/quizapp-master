@@ -1,0 +1,96 @@
+.Question-container{
+    margin: 10% auto 0 auto;
+    width: 70%;
+    
+}
+
+.progress{
+    height: 18px;
+}
+
+.progress-bar{
+    height: 18px;
+}
+
+.Question{
+    margin: 6% auto 0 auto;
+    width: 70%;
+}
+
+.card-container{
+    justify-content: center;
+}
+
+.card{
+    width: 170px;
+    height: 200px;
+    margin: 15px;
+    padding: 15px 15px;
+    border-width: 1px;
+}
+
+.card-img{
+    width: 130px;
+    height: 170px;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+.card-input-element{
+    display: none;
+}
+
+.card-input-element:checked + .card{
+    box-shadow: 0 0 2px 2px #2ecc71;
+}
+
+.continue-button{
+    margin-left: auto;
+}
+
+.correct-answer{
+    color: green;
+    background-color: lightgreen;
+    padding: 20px 20px;
+}
+
+.wrong-answer{
+    color: #8B0000;
+    background-color: lightcoral;
+    padding: 20px 20px;
+}
+
+.check-button{
+    margin-left: 40px;
+}
+
+.extra-buttons.fa{
+    padding-right: 30px;
+}
+
+.radio:checked{
+    border-width: 2px;
+    background: lightblue;
+}
+
+.options{
+    margin: 10% auto;
+}
+
+span:hover{
+    cursor: pointer;
+}
+
+.radio{
+    display: none;
+}
+
+.radio:checked + .btn{
+    color: white;
+    background: blue;
+}
+
+.btn-option{
+    margin-left: 10px;
+}

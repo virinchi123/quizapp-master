@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,YAAY,EAAE,IAAI;EAClB,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,GAAG;EACZ,aAAa,EAAE,GAAG;CAUrB;;AAdD,AAKI,OALG,AAKF,MAAM,CAAA;EACH,gBAAgB,EAAE,IAAI;EACtB,YAAY,EAAE,IAAI;CACrB;;AARL,AAUI,OAVG,AAUF,MAAM,CAAA;EACH,gBAAgB,EAAE,IAAI;EACtB,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "englishQuestion.module.scss"
+    ],
+    "names": [],
+    "file": "englishQuestion.module.css"
+}

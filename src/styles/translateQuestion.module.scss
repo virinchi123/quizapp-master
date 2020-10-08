@@ -1,0 +1,10 @@
+.option{
+    border-color: #ccc;
+    color: #888;
+    padding: 1em;
+    border-radius: 1em;
+    &:hover{
+        background-color: #aaa;
+        border-color: #aaa;
+    }
+}

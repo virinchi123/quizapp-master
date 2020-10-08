@@ -1,0 +1,20 @@
+.card {
+  -webkit-box-shadow: 0px 2px #ccc;
+          box-shadow: 0px 2px #ccc;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.card:hover {
+  background-color: #ccc;
+  -webkit-box-shadow: 0px 0px #ccc;
+          box-shadow: 0px 0px #ccc;
+  position: relative;
+  top: 2px;
+}
+
+.card:focus {
+  background-color: lightblue;
+  color: blue;
+}
+/*# sourceMappingURL=chooseQuestion.module.css.map */

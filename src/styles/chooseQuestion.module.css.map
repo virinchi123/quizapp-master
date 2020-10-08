@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,UAAU,EAAE,YAAY;EACxB,MAAM,EAAE,cAAc;EACtB,aAAa,EAAC,IAAI;CAarB;;AAhBD,AAKI,KALC,AAKA,MAAM,CAAA;EACH,gBAAgB,EAAE,IAAI;EACtB,UAAU,EAAE,YAAY;EACxB,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;CACX;;AAVL,AAYI,KAZC,AAYA,MAAM,CAAA;EACH,gBAAgB,EAAE,SAAS;EAC3B,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "chooseQuestion.module.scss"
+    ],
+    "names": [],
+    "file": "chooseQuestion.module.css"
+}
